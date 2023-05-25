@@ -1,0 +1,137 @@
+#promocao{
+  margin: 10px;
+  text-align: center;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#fundo{
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  background-image: url(cidade.jpg);
+  background-attachment: fixed;
+}
+
+.navbar{
+  width: 100%;
+  background: #51435d;
+  position: relative;
+  margin: 0;
+  box-shadow: 0px 3px 8px #272727;
+  height: 194px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+#nomeempresa{
+  position: relative;
+  top: -17px;
+  right: -430px;
+  font-family: "Stencil";
+  color: #ffb100;
+}
+#titulo{
+  font-size: 110px;
+  text-shadow: 3px 3px black;
+
+}
+
+#explicacao{
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+#explicacaopromocao{
+  float: left;
+  left: 241px;
+  width: 431px;
+  position: relative;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#explicacaopromocao2{
+  float: left;
+  left: 241px;
+  width: 431px;
+  position: relative;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#explicacaopromocao3{
+  float: left;
+  left: 241px;
+  width: 431px;
+  position: relative;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#explicacaopromocao4{
+  float: left;
+  left: 241px;
+  width: 431px;
+  position: relative;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#explicacaopromocao5{
+  float: left;
+  left: 241px;
+  width: 431px;
+  position: relative;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+#linha1{
+  color: transparent;
+}
+
+p, li, strong {
+    font-weight: bolder;
+    color: white;
+}
+
+li {
+  list-style-type: none;
+  position:relative;
+  margin-bottom:0.5em;
+  margin: 10px;
+}
+li:before {
+  content: '•';
+  display: inline-block;
+  position: absolute;
+  left: -11px;
+  color:#ffb100;
+}
+
+#botao{
+  float: left;
+  margin: 228px;
+  margin-inline: 200px;
+  margin-block-end: 25px;
+}

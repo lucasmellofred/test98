@@ -1,0 +1,74 @@
+#promocao{
+  margin: 10px;
+  text-align: center;
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#fundo{
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  background-image: url(cidade.jpg);
+  background-attachment: fixed;
+}
+
+.navbar{
+  width: 100%;
+  background: #51435d;
+  position: relative;
+  margin: 0;
+  box-shadow: 0px 3px 8px #272727;
+  height: 194px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+#nomeempresa{
+  position: relative;
+  top: -17px;
+  right: -430px;
+  font-family: "Stencil";
+  color: #ffb100;
+}
+#titulo{
+  font-size: 110px;
+  text-shadow: 3px 3px black;
+
+}
+
+#explicacao{
+  background-color: #51435d;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+#explicacaopromocao{
+  float: left;
+  left: 241px;
+  width: 431px;
+  position: relative;
+}
+
+#linha1{
+  color: transparent;
+}
+
+p, li, strong {
+    font-weight: bolder;
+    color: white;
+}
+#parcerias{
+  margin: 20px;
+  margin-left: 325px;
+  text-align: center;
+  font-family: inherit;
+  font-size: xx-large;
+  color: white;
+  background-color: #51435d;
+  border-radius: 10px;
+  width: 700px;
+}
